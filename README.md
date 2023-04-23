@@ -9,9 +9,9 @@ Steps in Downloading MicroHUB
 2. Download the zip file
   ![Screenshot (21)](https://user-images.githubusercontent.com/71449316/233826427-3f18858a-e601-453b-af7a-f463033cae9f.png)
 3. Navigate to download folder
-  ![Screenshot (22)](https://user-images.githubusercontent.com/71449316/233826429-d0cbf3ab-4f65-47ef-907a-d6f37d81742f.png)
+  ![Screenshot (22)](https://user-images.githubusercontent.com/71449316/233827430-9d850037-dbac-4aa8-a5d5-85a30e44cd56.png)
 4. Extract all the files
-  ![Screenshot (25)](https://user-images.githubusercontent.com/71449316/233826437-5923584d-c1f8-4726-97dc-6f09ee9e654f.png)
+  ![Screenshot (27)](https://user-images.githubusercontent.com/71449316/233827431-e7a7ccb2-b669-41bd-89e4-35102313757d.png)
 5. Open the new folder where the files are located
   ![Screenshot (23)](https://user-images.githubusercontent.com/71449316/233826432-84d85b63-3f8c-494d-b159-fafbd022c449.png)
 6. Open the file called, 'DRM.exe'
